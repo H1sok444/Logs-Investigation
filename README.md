@@ -1,1 +1,1 @@
-Tools that were used here : jq for formatting , CloudTrail
+Tools that were used here : jq for formatting , CloudWatch and CloudTrail
